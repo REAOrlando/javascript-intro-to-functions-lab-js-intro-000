@@ -11,4 +11,3 @@ whisper()
 function logShout(string) {
   console.log.toUpperCase();
 }
-
